@@ -1,1 +1,0 @@
-# workshop-inventory-service
